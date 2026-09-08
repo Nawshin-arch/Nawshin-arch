@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Nawshin 👋
 
-<!--
-**Nawshin-arch/Nawshin-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT & Security Analyst based in Sydney, transitioning into a Security Operations (SOC) Analyst / Cybersecurity Analyst role.
 
-Here are some ideas to get you started:
+I've spent the past few years working across IT support and security functions in a fintech/payments environment, and I'm now focused on building deeper SOC-specific skills: alert triage, log analysis, and threat detection.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Focus
+
+- SIEM & Incident Response
+- KQL & Threat Hunting
+- Identity Security
+- Microsoft Sentinel
+- Microsoft Defender XDR
+- Microsoft Entra ID
+
+## Career Target
+
+SOC Analyst | Cybersecurity Analyst | Security Analyst
+
+
+## Certifications
+
+- CompTIA Security+
+- Splunk Core Certified Power User
+- AWS Certified Cloud Practitioner
+- Master of Information Technology, University of Technology Sydney (UTS)
+
+## Connect
+
+- LinkedIn: https://linkedin.com/in/yourprofile
+- Email: yourname@email.com get you started:
+
