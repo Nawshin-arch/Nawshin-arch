@@ -27,6 +27,6 @@ SOC Analyst | Cybersecurity Analyst | Security Analyst
 
 ## Connect
 
-- LinkedIn: https://linkedin.com/in/yourprofile
-- Email: yourname@email.com get you started:
+- LinkedIn: https://www.linkedin.com/in/nawshin-tasnim-5a34961b6/
+- Email: nawshin26@gmail.com 
 
